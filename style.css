@@ -36,5 +36,22 @@ body{
 .second-part{
     background-image: url("images/biography-bg.png");
     background-repeat: no-repeat;
+    height: 700px;
+}
+
+.third-part{
+    background-image: url("images/latest-work-bg.png");
+    background-repeat: no-repeat;
     height: 600px;
+    text-align: center;
+}
+
+.one-third{
+    width: 25%;
+    float: left;
+    padding: 4%;
+    
+}
+.one-third img{
+    width: 100%;
 }
